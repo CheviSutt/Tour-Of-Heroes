@@ -22,7 +22,7 @@
     "@angular/router": "^6.0.0",
     "angular-in-memory-web-api": "^0.6.0",
     "core-js": "^2.5.4",
-    "npm": "^6.1.0",
+    "npm": "^9.6.5",
     "rxjs": "^6.0.0",
     "zone.js": "^0.8.26"
   },
